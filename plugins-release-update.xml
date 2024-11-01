@@ -1,11 +1,18 @@
 <plugins>
-
+ <plugin>
+     <id>com.dhcs.helper</id>
+     <name>DHCS-Helper</name>
+     <version>1.2-SNAPSHOT</version>
+     <vendor>DHCS</vendor>
+     <download-url>file://sgfs/DHCS/Aaron/dhcs-plugin/plugins/dhcs-helper-1.2-SNAPSHOT.zip</download-url>
+     <description>Release 1.2 with Gemini Chatbot</description>
+ </plugin>
  <plugin>
      <id>com.dhcs.helper</id>
      <name>DHCS-Helper</name>
      <version>1.1-SNAPSHOT</version>
      <vendor>DHCS</vendor>
-     <download-url>http://localhost:8080/dhcs-helper-1.1-SNAPSHOT.zip</download-url>
+     <download-url>file://sgfs/DHCS/Aaron/dhcs-plugin/plugins/dhcs-helper-1.1-SNAPSHOT.zip</download-url>
      <description>Release 1.1</description>
  </plugin>
  <plugin>
@@ -13,7 +20,7 @@
      <name>DHCS-Helper</name>
      <version>1.0-SNAPSHOT</version>
      <vendor>DHCS</vendor>
-     <download-url>http://localhost:8080/dhcs-helper-1.0-SNAPSHOT.zip</download-url>
+     <download-url>file://sgfs/DHCS/Aaron/dhcs-plugin/plugins/dhcs-helper-1.0-SNAPSHOT.zip</download-url>
      <description>Inital BETA release.</description>
  </plugin>
  
