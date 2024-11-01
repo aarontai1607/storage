@@ -1,0 +1,20 @@
+<plugins>
+
+ <plugin>
+     <id>com.dhcs.helper</id>
+     <name>DHCS-Helper</name>
+     <version>1.1-SNAPSHOT</version>
+     <vendor>DHCS</vendor>
+     <download-url>http://localhost:8080/dhcs-helper-1.1-SNAPSHOT.zip</download-url>
+     <description>Release 1.1</description>
+ </plugin>
+ <plugin>
+     <id>com.dhcs.helper</id>
+     <name>DHCS-Helper</name>
+     <version>1.0-SNAPSHOT</version>
+     <vendor>DHCS</vendor>
+     <download-url>http://localhost:8080/dhcs-helper-1.0-SNAPSHOT.zip</download-url>
+     <description>Inital BETA release.</description>
+ </plugin>
+ 
+</plugins>
