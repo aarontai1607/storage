@@ -2,6 +2,14 @@
  <plugin>
      <id>com.dhcs.helper</id>
      <name>DHCS-Helper</name>
+     <version>1.3-SNAPSHOT</version>
+     <vendor>DHCS</vendor>
+     <download-url>file://sgfs/DHCS/Aaron/dhcs-plugin/plugins/dhcs-helper-1.3-SNAPSHOT.zip</download-url>
+     <description>Release 1.3 fix Ask Gemini</description>
+ </plugin>
+ <plugin>
+     <id>com.dhcs.helper</id>
+     <name>DHCS-Helper</name>
      <version>1.2-SNAPSHOT</version>
      <vendor>DHCS</vendor>
      <download-url>file://sgfs/DHCS/Aaron/dhcs-plugin/plugins/dhcs-helper-1.2-SNAPSHOT.zip</download-url>
